@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-- BIBM 2024` [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://ieeexplore.ieee.org/document/10822341), **Buchao Zhan**, Anqi Li, Xin Yang, et al.
+- `BIBM 2024` [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://ieeexplore.ieee.org/document/10822341), **Buchao Zhan**, Anqi Li, Xin Yang, et al.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Master)(Top 1%)
