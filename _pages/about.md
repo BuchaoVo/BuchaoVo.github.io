@@ -54,8 +54,9 @@ My research interest includes knowledge graphs and large language models. I have
 - *2018.09 - 2022.06*, Undergraduate, Yichun University, Yichun. 
 
 # 💬 Talks
-- *2024.11*, International Conference on Bioinformatics and Biomedicine, Lisbon, Portugal  \| [\[video\]](https://mail.google.com/mail/u/0/#sent/FMfcgzQVxlSWzRGhlGGRKFTDQjrGKgjr?projector=1)
-- *2024.07*, International Conference on Computational Intelligence and Applications, Haikou, China \| [\[video\]](https://mail.google.com/mail/u/0/#sent/FMfcgzQVxlSWzRGhlGGRKFTDQjrGKgjr?projector=1)
+- *2024.12*, International Conference on Neural Information Processing, Auckland, New Zealand  \| [\[video\]](https://drive.google.com/file/d/1VKdBQ5rS4T4FxZYBH39LOaNSb-gKR-AF/view)
+- *2024.12*, International Conference on Bioinformatics and Biomedicine, Lisbon, Portugal  \| [\[video\]](https://drive.google.com/file/d/1VKdBQ5rS4T4FxZYBH39LOaNSb-gKR-AF/view)
+- *2024.07*, International Conference on Computational Intelligence and Applications, Haikou, China \| [\[video\]](https://drive.google.com/file/d/1VKdBQ5rS4T4FxZYBH39LOaNSb-gKR-AF/view)
 
 # 💻 Internships
-- *2022.02 - 2022.05*, [CubyFun](https://www.cubyfun.com/), Shenzhen, China.
+- *2022.02 - 2022.05*, [CubyFun](https://www.cubyfun.com/), Embedded Development Engineer，Shenzhen, China.
