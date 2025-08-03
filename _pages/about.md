@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes knowledge graphs and large language models.. I have published more than 10 papers at the international AI conferences with total <a href='https://scholar.google.com/citations?user=8AFOQzoAAAAJ'>google scholar citations <strong><span id='total_cit'>2</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=8AFOQzoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes knowledge graphs and large language models. I have published more than 10 papers at the international AI conferences with total <a href='https://scholar.google.com/citations?user=8AFOQzoAAAAJ'>google scholar citations <strong><span id='total_cit'>2</span></strong></a><a href='https://scholar.google.com/citations?user=8AFOQzoAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
@@ -55,7 +55,7 @@ My research interest includes knowledge graphs and large language models.. I hav
 - *2018.09 - 2022.06*, Undergraduate, Yichun University, Yichun. 
 
 # 💬 Invited Talks
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum   \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.02 - 2022.05*, CubyFun(https://www.cubyfun.com/), Shenzhen, China.
