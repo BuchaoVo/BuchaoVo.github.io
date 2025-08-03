@@ -28,20 +28,26 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM 2024</div><img src='images/RARoK Pipline.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://ieeexplore.ieee.org/document/10822341)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Buchao Zhan**, Anqi Li, Xin Yang, Dongmei He, Yucong Duan, Shankai Yan.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8AFOQzoAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=en&user=8AFOQzoAAAAJ&citation_for_view=8AFOQzoAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='8AFOQzoAAAAJ:2osOgNQ5qMEC'></span></strong>
+-This paper was sponsored by a research project (Grant No. 62202128) supported by the National Natural Science Foundation of China.
 </div>
 </div>
 
 - `BIBM 2024` [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://ieeexplore.ieee.org/document/10822341), **Buchao Zhan**, Anqi Li, Xin Yang, et al.
+- `ICONIP 2024` [Text2SPARQL: Grammar Pre-training for Text-to-QDMR Semantic Parsers from Intermediate Question Decompositions](https://link.springer.com/chapter/10.1007/978-981-96-6599-0_9), **Buchao Zhan**, Yucong Duan, Xin Yang, et al.
 - `BIBM 2024` [Augmented Mycobiome-Based Cancer Detection by an Interpretable Large Model](https://ieeexplore.ieee.org/document/10822416), Dongmei He, Xin Yang, **Buchao Zhan**, et al.
+- `ICCIA 2024` [IC-BERT: An Instruction Classifier Model Alleviates the Hallucination of Large Language Models in Traditional Chinese Medicine](http://ieeexplore.ieee.org/document/10719061), **Buchao Zhan**, Yucong Duan, Shankai Yan.
+- `ICCIA 2024` [SACMR: Sentiment Analysis in Chinese Language using Modified RoBERTa](https://ieeexplore.ieee.org/document/10719112), Yuchen Ma, **Buchao Zhan**,  Shankai Yan.
+- `MLNLP 2024` [Food Named Entity Recognition with BERT and Adversarial Training](https://ieeexplore.ieee.org/document/10719112), Siqi Dong, **Buchao Zhan**,  Shankai Yan.
+- `ISMSI 2024` [BiCalBERT: An Efficient Transformer-based Model for Chinese Question Answering](https://dl.acm.org/doi/10.1145/3665065.3665081), Yanbo Han, **Buchao Zhan**,  Shankai Yan.
+- `MLNLP 2024` [Attention-aware Rare Disease Diagnosis via Graph Attention Neural Network](https://dlnext.acm.org/doi/full/10.1145/3715020.3715060), Xin Yang, Dongmei He, **Buchao Zhan**, et al.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Master)(Top 1%)
