@@ -24,6 +24,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Won the title of Outstanding Master Graduate of Hainan University!
+- *2024.09*: &nbsp;🎉🎉 Won the Master National Scholarship of Hainan University!
 
 # 📝 Publications 
 
@@ -40,13 +41,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 
 - `BIBM 2024` [RARoK:Retrieval-Augmented Reasoning on Knowledge for Medical Question Answering](https://ieeexplore.ieee.org/document/10822341), **Buchao Zhan**, Anqi Li, Xin Yang, et al.
+- `BIBM 2024` [Augmented Mycobiome-Based Cancer Detection by an Interpretable Large Model](https://ieeexplore.ieee.org/document/10822416), Dongmei He, Xin Yang, **Buchao Zhan**, et al.
 
 # 🎖 Honors and Awards
 - *2024.09* National Scholarship (Master)(Top 1%)
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Hainan University, Haikou. 
-- *2018.09 - 2022.06*, Undergraduate, Yi Chun University, Yichun. 
+- *2018.09 - 2022.06*, Undergraduate, Yichun University, Yichun. 
 
 # 💬 Invited Talks
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
